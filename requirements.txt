@@ -1,0 +1,20 @@
+# 数据库
+# sqlite3 是 Python 标准库的一部分，不需要单独安装
+
+# Web3 相关
+web3
+
+# HTTP 客户端
+requests
+
+# 环境变量管理
+python-dotenv
+
+# 命令行参数解析
+argparse
+
+# 时间处理
+datetime
+
+# Web 框架
+Flask
